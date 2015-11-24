@@ -1,0 +1,19 @@
+<package>
+  <description brief="DataWrapper">
+
+  DataWrapper
+
+  </description>
+  <author>hangyin</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/DataWrapper</url>
+  <depend package="roscpp"/>
+  <depend package="rosbag"/>
+  <depend package="geometry_msgs"/>
+  <depend package="tf"/>
+  <!--<depend package="trunk"/>-->
+
+</package>
+
+
